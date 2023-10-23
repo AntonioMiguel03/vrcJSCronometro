@@ -1,0 +1,17 @@
+#botoes{
+	display: flex;
+	flex-direction: column;
+}
+
+.btn{
+	margin-top: 5px
+}
+
+#tempo {
+	width: 90%;
+	margin-left: -5%;
+}
+
+#tempo span {
+	font-size: 0.9rem;
+}
